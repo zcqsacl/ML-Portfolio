@@ -22,5 +22,5 @@ Could be used to provide rapid estimates to molecular energy, though doesn't acc
 
 
 # Additional
-There are further weather-modelling projects, using image-processing with ConvLSTM and Random Forest models, which I cannot show the code nor results for
-because I am bound by non-disclosure agreements.
+There are further weather-modelling projects, using image-processing with ConvLSTM and Random Forest models, which I cannot show the code nor results for, because I am bound by non-disclosure agreements.
+I also made fast LLM-based form-fillers to complete proposal documents for large consulting clients, which I also cannot share.
